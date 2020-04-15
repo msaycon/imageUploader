@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_fragment">Home</string>
+
+    <string name="label_take_photo">Open Camera</string>
+    <string name="label_choose_gallery">Choose from Gallery</string>
+    <string name="media_permission">Requires camera and storage permission to access local images or capture image.</string>
+    <string name="label_add_photo">No photos yet, click add photo icon below</string>
+    <string name="file_error">Maximum of 2mb per file</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_edit_caption">Edit Caption</string>
+    <string name="label_add_caption">Add Caption</string>
+    <string name="label_save">Save</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="long_tap">Long tap to add caption</string>
+</resources>
